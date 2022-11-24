@@ -2,3 +2,13 @@ body {
   margin: 0;
   background-color: antiquewhite;
 }
+
+#template1 {
+  background-color: aqua;
+}
+
+#template1 .p1 {
+  font-size: 30px;
+  line-height: 48px;
+  color: red;
+}
